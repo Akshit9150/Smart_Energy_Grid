@@ -117,11 +117,11 @@ FUTURE_IMPROVEMENTS:
 
 
 CONTACT:
-  github: "https://github.com/Rupeshmund04"
+  github: "https://github.com/Akshit9150"
 
 how_to_run:
   - step: "Clone the repository"
     command: |
-      git clone https://github.com/Rupeshmund04/Smart_Energy_Grid.git
+      git clone https://github.com/Akshit9150/Smart_Energy_Grid.git
 
 
