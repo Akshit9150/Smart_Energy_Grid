@@ -104,9 +104,9 @@ how_to_run:
 
 
 TEAM_MEMBERS:
-  - "⭐ Rupesh Kumar Mund"
+  - "⭐ Akshit Verma
   - "⭐ Shubhranshu Sudeepta Panda"
-  - "⭐ Akshit Verma"
+  - "⭐ Rupesh Kumar Mund"
 
 FUTURE_IMPROVEMENTS:
   - "🔮 Implement multi-step forecasting (e.g., next 24 hours)"
