@@ -3,6 +3,11 @@
 A Machine Learning Capstone Project focused on forecasting hourly energy consumption of an electric power station using statistical, neural, and hybrid models.
 
 ---
+## Google Collab Link
+
+https://colab.research.google.com/drive/1_kxSrns0pLJelfvKWguql5iUmXo64jUS?usp=sharing 
+
+---
 
 ## 📌 Project Overview
 
